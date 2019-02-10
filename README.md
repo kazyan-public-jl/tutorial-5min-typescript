@@ -1,4 +1,8 @@
-# tutorial-typescript
+# tutorial-5min-typescript
+
+## 対応内容
+
+- [TypeScript in 5 minutes · TypeScript](https://goo.gl/RXgbvi)
 
 ## TypeScript インストール
 
